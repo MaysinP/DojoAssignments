@@ -1,0 +1,22 @@
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments>dir /b /s
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\assignments.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\CSS
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Git
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\HTML
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\iOS
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Javascript
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\MEAN
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\netCore
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Python
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Ruby
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\WebFundamentals
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\CSS\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Git\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\HTML\indentation.html
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\iOS\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Javascript\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\MEAN\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\netCore\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Python\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\Ruby\about.txt
+C:\Users\Thia Maghanoy\Desktop\DojoAssignments\WebFundamentals\about.txt
